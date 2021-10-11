@@ -1,0 +1,98 @@
+body
+{
+    border-radius: 60px;
+    margin: 10%;
+    padding: 5%;
+    background-image:url(gmeal3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: solid #000000;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+
+p
+{
+    color: #FFF;
+}
+
+a
+{
+    color: #00BFFF;
+}
+
+h1
+{
+    text-align:center;
+    font-size:50px;
+    color:#FFA500;
+    text-shadow: 10px 7px #000000;
+}
+
+form
+{
+    margin: auto;
+    width: 500px;
+    color:#FFF ;
+}
+
+input
+{
+    border-radius: 60px;
+    padding: 5px;
+    font-size: small;
+    font-family: sans-serif;
+}
+input[type="text"]
+{
+    display: block;
+    width:100%;
+    border: 2px solid black;
+}
+input[type="Password"]
+{
+    display: block;
+    width:100%;
+    border: 2px solid black;
+}
+input[type="Email"]
+{
+    display: block;
+    width:100%;
+    border: 2px solid black;
+}
+
+input[type="checkbox"]:checked + label
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.submit
+{
+    border: solid;
+    width: 300px;
+    height: 50px;
+    border-radius: 80px;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    background: none;
+    color: #000000;
+    cursor: pointer;
+    font-family: Impact, Charcoal, sans-serif;
+    transition: 0.7s;
+    position: relative;
+    overflow: hidden;
+}
+.submit:hover
+{
+    background: #1E90FF;
+    color: #FFFFFF;
+}
+
+.p2
+{
+    font-size: small;
+}
