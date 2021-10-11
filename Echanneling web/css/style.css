@@ -1,0 +1,69 @@
+body{
+    background-image: url("../images/background.jpg");
+    height:500px;
+    background-size: cover;
+}
+
+.all {
+    position: absolute;
+    left:20px;
+    top:100px;
+    color: black;
+}
+
+
+.topic{
+    position: absolute;
+    left:680px;
+    top:20px;
+}
+
+
+
+
+
+
+
+.message-icon {
+    position: absolute;
+    left:20px;
+    top:115px;
+}
+
+.submit-btn{
+    width: 120px;
+    position: absolute;
+    left: 492px;
+    background-color: #1c1a1a;
+    color: white;
+
+}
+
+input, textarea{
+    padding: 5px;
+    width: 600px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+/*contact-us-popup*/
+.mes-popup{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    z-index: 100;
+    width: 800px;
+    height: 300px;
+}
+
+.close-btn{
+    position: absolute;
+    right:90px;
+    top:-90px;
+}
