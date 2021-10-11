@@ -1,6 +1,7 @@
 # algoexpert_Competitive-Programming
 
 ### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
+https://hacktoberfest.digitalocean.com/
 
 ### Rules for contribution.
 **1) Fork this repository.**
