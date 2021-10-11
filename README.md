@@ -19,7 +19,7 @@ Create a Pull request and add any feature update to the repository.
 https://hacktoberfest.digitalocean.com/
 
 ### Rules for contribution.
-**1) Star⭐ and Fork this repository.**
+**1)  Star⭐ and Fork this repository.**
 
 **2) Choose your favourite programming language.**
 
