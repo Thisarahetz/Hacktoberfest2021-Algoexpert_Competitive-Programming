@@ -1,4 +1,19 @@
 # algoexpert_Competitive-Programming
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
+    	<img src="https://user-images.githubusercontent.com/55616388/135486681-adf5d5e7-d03c-4352-8e0c-d33ca1bee931.jpg" width="800px" height="400px">
+    </a>
+</p>
+
+# HacktoberFest21
+
+Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
+Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
+
+Create a Pull request and add any feature update to the repository.
+
+* [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
+
 
 ### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
 https://hacktoberfest.digitalocean.com/
@@ -11,6 +26,20 @@ https://hacktoberfest.digitalocean.com/
 **3) Add valid program (or code) on that sub repository.**
 
 **4) Don't forget to add the problem statement , comments and complexity.⚠️⚠️ It's a must part.**
+* Create a branch
+
+```markdown
+git checkout -b your-branch-name
+```
+
+* Make your changes.
+* Commit and push your code.
+
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
 
 **5) Commit the change and generate a valid pull request.**
 
