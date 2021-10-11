@@ -1,0 +1,25 @@
+body
+{
+    border-radius: 60px;
+    margin: 3%;
+    padding: 5%;
+    background-image:url(gmeal5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    border: solid;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+h1
+{
+    text-align:center;
+    font-size:50px;
+    color:#FFA500;
+    text-shadow: 10px 7px #000000;
+}
+.paragraph
+{
+    border: hidden;
+    color: #FFFFFF;
+}
