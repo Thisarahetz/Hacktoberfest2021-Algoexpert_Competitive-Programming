@@ -29,7 +29,7 @@ https://hacktoberfest.digitalocean.com/
 * Create a branch
 
 ```markdown
-git checkout -b your-branch-name
+git clone <link>
 ```
 
 * Make your changes.
