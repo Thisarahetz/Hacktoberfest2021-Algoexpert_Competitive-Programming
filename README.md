@@ -4,6 +4,7 @@
     	<img src="https://user-images.githubusercontent.com/43540833/136837017-a83daae4-1589-4c9c-88c9-022cfc42adfd.png" width="800px" height="400px">
     </a>
 </p>
+<img src="https://www.behance.net/gallery/128582503/NIE-Website-Redesigned-Prototype" width="800px" height="400px">
 
 # HacktoberFest21
 
