@@ -15,7 +15,7 @@ Create a Pull request and add any feature update to the repository.
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
 
 
-### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
+### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
 
 ### Rules for contribution.
 **1)  Star⭐ and Fork this repository.**
